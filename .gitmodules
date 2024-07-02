@@ -1,0 +1,3 @@
+[submodule "BaseStyle"]
+	path = BaseStyle
+	url = git@github.com:tungphien/Demo.Submodule.BaseStyle.git
